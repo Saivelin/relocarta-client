@@ -1,0 +1,28 @@
+.accordion {
+    display: none;
+  }
+  .title {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    cursor: pointer;
+    font-family: Montserrat;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 21px;
+    color: #565656;
+    padding: 1rem 1rem 1rem 0;
+  }
+  .content {
+    font-family: Montserrat;
+    font-size: 12px;
+    line-height: 18px;
+    color: #565656;
+    padding: 0 0 1rem 0;
+    white-space: pre-wrap;
+  }
+  @media (max-width: 480px) {
+    .accordion {
+        display: block;
+      }
+  }

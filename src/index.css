@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    --primary: #1890FF;
+    --light-gray: #004269;
+    --accent-light: #6dc682;
+}
+
+.border-right-primary:hover {
+    border-right: 3px solid var(--primary);
+}
+
+.border-bottom-gray {
+    border-bottom: 1px solid rgba(0, 66, 105, 0.07);
+}
+
+.border-gray {
+    border: 1px solid rgba(0, 66, 105, 0.07);
+}
+
+.ant-upload-list-item {
+    display: none !important;
+}

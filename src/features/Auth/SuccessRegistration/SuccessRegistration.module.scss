@@ -1,0 +1,22 @@
+.title {
+    color: var(--typo-brand, #248742);
+    font-size: 24px;
+    font-family: Montserrat;
+    font-weight: 700;
+    line-height: 120%; 
+    margin-bottom: 16px;
+    margin-top: 200px;
+}
+
+.text {
+    color: #000;
+    font-size: 16px;
+    font-family: Montserrat; 
+}
+
+.footer {
+    margin-top: 24px;
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+}

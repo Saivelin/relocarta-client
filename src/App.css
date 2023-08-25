@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitter&family=Dongle&family=Inter&family=Montserrat:wght@400;500;600;700&family=Shantell+Sans:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@600&display=swap');
+*,
+*::before,
+*::after {
+  padding: 0;
+  margin: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 14px;
+  color: #252b42;
+  font-weight: 400;
+  font-family: 'Shantell Sans', cursive;
+  line-height: 1;
+}
+
+ul,
+ol,
+li {
+  list-style: none;
+}
+
+.mapboxgl-popup-content {
+  padding: 0;
+  background: transparent;
+}
+
+.mapboxgl-popup-tip {
+  display: none;
+}
+
+.mapboxgl-ctrl-attrib-inner {
+  display: none;
+}
+
+a.mapboxgl-ctrl-logo {
+  display: none;
+}
+
+.mapboxgl-ctrl-bottom-right {
+  display: none;
+}
+
+.ant-pagination-next,
+.ant-pagination-prev {
+  display: none !important;
+}
+
+.ant-pagination {
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.ant-pagination-item {
+  width: 40px;
+  height: 100% !important;
+  background: #fff !important;
+}
+
+.ant-pagination-item a {
+  height: 100% !important;
+  display: flex !important;
+  justify-content: center;
+  align-items: center;
+  color: #565656 !important;
+  font-family: Montserrat;
+  font-size: 15px;
+  line-height: 18px;
+}
+
+.ant-pagination-item-active {
+  border-color: #b0adad !important;
+  background: #fee5cb !important;
+}
+.ant-pagination-item-active a {
+  color: #000 !important;
+  font-weight: 400;
+}
+
+.mapboxgl-ctrl-top-right {
+  top: 35%;
+}
+
+/* .ant-btn:hover {
+  border-color: white !important;
+  color: white !important;
+} */
+
+/*.ant-table-thead ::before {*/
+/*  content: none !important;*/
+/*}*/

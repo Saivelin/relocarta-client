@@ -1,0 +1,22 @@
+.search {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  margin: 0 -20px;
+  padding: 0 20px;
+  min-height: 60px;
+  border-bottom: 1px solid rgba(0, 65, 102, 0.2);
+  
+}
+
+.input::placeholder, .input {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  background: linear-gradient(90deg, #6dc682 0%, rgba(109, 198, 130, 0) 145.27%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}

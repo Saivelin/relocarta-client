@@ -1,0 +1,125 @@
+[
+  {
+    "fieldName": "nsi",
+    "displayName": "Управление НСИ",
+    "id": "1",
+    "elements": [
+      {
+        "fieldName": "region",
+        "displayName": "Регионы",
+        "id": "2"
+      },
+      {
+        "fieldName": "city",
+        "displayName": "Города",
+        "id": "3"
+      }
+    ]
+  },
+  {
+    "fieldName": "content",
+    "displayName": "Управление контентом",
+    "elements": [
+      {
+        "fieldName": "attraction",
+        "displayName": "Аттракции",
+        "count": "10"
+      },
+      {
+        "fieldName": "tour-event",
+        "displayName": "Мероприятия",
+        "count": "5"
+      },
+      {
+        "fieldName": "hotel",
+        "displayName": "Отели"
+      },
+      {
+        "fieldName": "tour-service",
+        "displayName": "Услуги"
+      },
+      {
+        "fieldName": "restaurant",
+        "displayName": "Рестораны"
+      },
+      {
+        "fieldName": "excursion",
+        "displayName": "Экскурсии"
+      },
+      {
+        "fieldName": "map-point",
+        "displayName": "Точки на карте"
+      }
+    ]
+  },
+  {
+    "fieldName": "request",
+    "displayName": "Управление заявками",
+    "elements": [
+      {
+        "fieldName": "change",
+        "displayName": "Корректировки",
+        "count": 2
+      },
+      {
+        "fieldName": "map-point",
+        "displayName": "Новые объекты",
+        "count": 3
+      },
+      {
+        "fieldName": "photo",
+        "displayName": "Фото",
+        "count": 5
+      },
+      {
+        "fieldName": "review",
+        "displayName": "Отзывы",
+        "count": 2
+      },
+      {
+        "fieldName": "trip",
+        "displayName": "Маршруты",
+        "count": 1
+      },
+      {
+        "fieldName": "trevel-story",
+        "displayName": "Тревел истории",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "fieldName": "ticket",
+    "displayName": "Управление обращениями"
+  },
+  {
+    "fieldName": "booking",
+    "displayName": "Бронирование отелей"
+  },
+  {
+    "fieldName": "supply",
+    "displayName": "Размещение объявлений",
+    "elements": [
+      {
+        "fieldName": "tour-service",
+        "displayName": "Услуги"
+      },
+      {
+        "fieldName": "restaurant",
+        "displayName": "Рестораны"
+      }
+    ]
+  },
+  {
+    "fieldName": "ads",
+    "displayName": "Размещение рекламы"
+  },
+  {
+    "fieldName": "referral",
+    "displayName": "Реферальные программы"
+  },
+  {
+    "fieldName": "user",
+    "displayName": "Пользователи"
+  }
+]

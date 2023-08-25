@@ -1,0 +1,24 @@
+.image {
+    border-radius: 4px;
+    overflow: hidden;
+    width: 100%;
+    
+    position: relative;
+  }
+
+  .h200 {
+    height: 200px;
+  }
+
+  .h222 {
+    height: 222px;
+  }
+
+  .h132 {
+    height: 132px;
+  }
+
+  .img {
+    -o-object-fit: cover;
+    object-fit: cover;
+  }

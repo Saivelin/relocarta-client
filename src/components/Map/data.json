@@ -1,0 +1,1861 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            43.9293667,
+            42.6255333
+          ]
+        },
+        "properties": {
+          "id": "46d3967b-ca54-4c2c-972d-5c22f5670d40",
+          "country_name": "Россия",
+          "region_name": "Карачаево-Черкессия",
+          "city_name": "Красный Курган",
+          "poi_type_name_en": "attraction",
+          "poi_type_name": "Аттракция",
+          "name": "Дом сказочного великана Эмегеши",
+          "type_name_en": "buildings",
+          "type_name": "Здание",
+          "subtype_name_en": "industrial",
+          "subtype_name": "Предприятия",
+          "scale_name_en": "small",
+          "scale_name": "Локальное место",
+          "icon_link": null,
+          "address": "",
+          "rate_avr": 0,
+          "photo_link": "/img_album/91683_186.jpg"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            43.4175,
+            41.7373833
+          ]
+        },
+        "properties": {
+          "id": "86e48b49-deb5-4b46-941c-c5e2e1045892",
+          "country_name": "Россия",
+          "region_name": "Карачаево-Черкессия",
+          "city_name": "Теберда",
+          "poi_type_name_en": "attraction",
+          "poi_type_name": "Аттракция",
+          "name": "\"Заброшенная турбаза \"\"Теберда\"\"\"",
+          "type_name_en": "buildings",
+          "type_name": "Здание",
+          "subtype_name_en": "hotel",
+          "subtype_name": "Гостиница",
+          "scale_name_en": "small",
+          "scale_name": "Локальное место",
+          "icon_link": null,
+          "address": "",
+          "rate_avr": 0,
+          "photo_link": "/img_album/91816_124.jpg"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            43.95235,
+            42.6109833
+          ]
+        },
+        "properties": {
+          "id": "44fd331c-44d4-4cef-855b-6b37ced20d8a",
+          "country_name": "Россия",
+          "region_name": "Карачаево-Черкессия",
+          "city_name": "Красный Курган",
+          "poi_type_name_en": "attraction",
+          "poi_type_name": "Аттракция",
+          "name": "\"Знак \"\"Я люблю КЧР\"\"\"",
+          "type_name_en": "buildings",
+          "type_name": "Здание",
+          "subtype_name_en": "sculpture",
+          "subtype_name": "Скульптура",
+          "scale_name_en": "small",
+          "scale_name": "Локальное место",
+          "icon_link": null,
+          "address": "",
+          "rate_avr": 0,
+          "photo_link": "/img_album/91684_145.jpg"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            43.5690167,
+            41.2799833
+          ]
+        },
+        "properties": {
+          "id": "dd13a9c5-2264-4119-aca6-e69bf2d7f38d",
+          "country_name": "Россия",
+          "region_name": "Карачаево-Черкессия",
+          "city_name": "Архыз",
+          "poi_type_name_en": "attraction",
+          "poi_type_name": "Аттракция",
+          "name": "Крутящийся дом",
+          "type_name_en": "buildings",
+          "type_name": "Здание",
+          "subtype_name_en": "industrial",
+          "subtype_name": "Предприятия",
+          "scale_name_en": "small",
+          "scale_name": "Локальное место",
+          "icon_link": null,
+          "address": "",
+          "rate_avr": 0,
+          "photo_link": "/img_album/91738_146.jpg"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            43.7678,
+            42.3126
+          ]
+        },
+        "properties": {
+          "id": "7075f0c9-425d-42f0-8bfe-aa6b396ed582",
+          "country_name": "Россия",
+          "region_name": "Карачаево-Черкессия",
+          "city_name": "Верхняя Мара",
+          "poi_type_name_en": "attraction",
+          "poi_type_name": "Аттракция",
+          "name": "Орел на перевале",
+          "type_name_en": "buildings",
+          "type_name": "Здание",
+          "subtype_name_en": "sculpture",
+          "subtype_name": "Скульптура",
+          "scale_name_en": "small",
+          "scale_name": "Локальное место",
+          "icon_link": null,
+          "address": "",
+          "rate_avr": 0,
+          "photo_link": "/img_album/91815_182.jpg"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            44.2278167,
+            42.0456833
+          ]
+        },
+        "properties": {
+          "id": "fcf6429a-474a-49d2-b8f1-06b538f76a2c",
+          "country_name": "Россия",
+          "region_name": "Карачаево-Черкессия",
+          "city_name": "Черкесск",
+          "poi_type_name_en": "attraction",
+          "poi_type_name": "Аттракция",
+          "name": "РГБУ Русский театр драмы и комедии КЧР",
+          "type_name_en": "buildings",
+          "type_name": "Здание",
+          "subtype_name_en": "theatre",
+          "subtype_name": "Театр",
+          "scale_name_en": "small",
+          "scale_name": "Локальное место",
+          "icon_link": null,
+          "address": "",
+          "rate_avr": 0,
+          "photo_link": "/img_album/teatrdram.jpg"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            43.8697167,
+            41.4421
+          ]
+        },
+        "properties": {
+          "id": "09aa083d-325f-4a20-9957-7cb5731087e1",
+          "country_name": "Россия",
+          "region_name": "Карачаево-Черкессия",
+          "city_name": "Сторожевая",
+          "poi_type_name_en": "attraction",
+          "poi_type_name": "Аттракция",
+          "name": "Руины Сторожевской ГЭС",
+          "type_name_en": "buildings",
+          "type_name": "Здание",
+          "subtype_name_en": "industrial",
+          "subtype_name": "Предприятия",
+          "scale_name_en": "small",
+          "scale_name": "Локальное место",
+          "icon_link": null,
+          "address": "",
+          "rate_avr": 0,
+          "photo_link": "/img_album/91816_119.jpg"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            43.6325833,
+            41.38665
+          ]
+        },
+        "properties": {
+          "id": "b1153c3f-7ff7-4174-88ab-e345e7362e07",
+          "country_name": "Россия",
+          "region_name": "Карачаево-Черкессия",
+          "city_name": "Нижний Архыз",
+          "poi_type_name_en": "attraction",
+          "poi_type_name": "Аттракция",
+          "name": "\"Скульптура \"\"Медведица и медвежонок\"\"\"",
+          "type_name_en": "buildings",
+          "type_name": "Здание",
+          "subtype_name_en": "sculpture",
+          "subtype_name": "Скульптура",
+          "scale_name_en": "small",
+          "scale_name": "Локальное место",
+          "icon_link": null,
+          "address": "",
+          "rate_avr": 0,
+          "photo_link": "/img_album/91694_197.jpg"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            43.8607333,
+            42.4555167
+          ]
+        },
+        "properties": {
+          "id": "2cc2a413-4ae4-4ece-a00a-4693b90dcaf6",
+          "country_name": "Россия",
+          "region_name": "Карачаево-Черкессия",
+          "city_name": "Учкекен",
+          "poi_type_name_en": "attraction",
+          "poi_type_name": "Аттракция",
+          "name": "Эшкаконская ГЭС",
+          "type_name_en": "buildings",
+          "type_name": "Здание",
+          "subtype_name_en": "industrial",
+          "subtype_name": "Предприятия",
+          "scale_name_en": "small",
+          "scale_name": "Локальное место",
+          "icon_link": null,
+          "address": "",
+          "rate_avr": 0,
+          "photo_link": "/img_album/91816_103.jpg"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            43.4319333,
+            41.7406833
+          ]
+        },
+        "properties": {
+          "id": "6893196b-953b-48eb-8456-a895beb5fb90",
+          "country_name": "Россия",
+          "region_name": "Карачаево-Черкессия",
+          "city_name": "Теберда",
+          "poi_type_name_en": "attraction",
+          "poi_type_name": "Аттракция",
+          "name": "Дом-музей И.П. Крымшамхалова",
+          "type_name_en": "historic",
+          "type_name": "Исторический",
+          "subtype_name_en": "museum",
+          "subtype_name": "Музей",
+          "scale_name_en": "small",
+          "scale_name": "Локальное место",
+          "icon_link": null,
+          "address": "",
+          "rate_avr": 0,
+          "photo_link": "/img_album/91743_113.jpg"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            43.8586667,
+            41.9018667
+          ]
+        },
+        "properties": {
+          "id": "5c85c53a-4a36-4767-be1d-0b7244f9fe36",
+          "country_name": "Россия",
+          "region_name": "Карачаево-Черкессия",
+          "city_name": "Карачаевск",
+          "poi_type_name_en": "attraction",
+          "poi_type_name": "Аттракция",
+          "name": "Музей-памятник защитникам перевалов Кавказа",
+          "type_name_en": "historic",
+          "type_name": "Исторический",
+          "subtype_name_en": "military_object",
+          "subtype_name": "Военный объект",
+          "scale_name_en": "small",
+          "scale_name": "Локальное место",
+          "icon_link": null,
+          "address": "",
+          "rate_avr": 0,
+          "photo_link": "/img_album/91440_193.jpg"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            43.7700333,
+            41.9105
+          ]
+        },
+        "properties": {
+          "id": "611747d4-5fee-4927-8fe7-e12eb76ae3ab",
+          "country_name": "Россия",
+          "region_name": "Карачаево-Черкессия",
+          "city_name": "Карачаевск",
+          "poi_type_name_en": "attraction",
+          "poi_type_name": "Аттракция",
+          "name": "Аллея героев Советского Союза и героев России",
+          "type_name_en": "monuments",
+          "type_name": "Памятник",
+          "subtype_name_en": "war",
+          "subtype_name": "Военный",
+          "scale_name_en": "small",
+          "scale_name": "Локальное место",
+          "icon_link": null,
+          "address": "",
+          "rate_avr": 0,
+          "photo_link": "/img_album/91740_103.jpg"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            43.6847833,
+            41.4734667
+          ]
+        },
+        "properties": {
+          "id": "597ce8a9-73bf-4bc8-b073-cf09b05671f2",
+          "country_name": "Россия",
+          "region_name": "Карачаево-Черкессия",
+          "city_name": "Нижний Архыз",
+          "poi_type_name_en": "attraction",
+          "poi_type_name": "Аттракция",
+          "name": "\"Каменная статуя \"\"Воин-тюрок\"\"\"",
+          "type_name_en": "monuments",
+          "type_name": "Памятник",
+          "subtype_name_en": "war",
+          "subtype_name": "Военный",
+          "scale_name_en": "small",
+          "scale_name": "Локальное место",
+          "icon_link": null,
+          "address": "",
+          "rate_avr": 0,
+          "photo_link": "/img_album/91442_116.jpg"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            43.5979833,
+            42.1336333
+          ]
+        },
+        "properties": {
+          "id": "91508828-b30e-4504-9b29-92b1ac15baf2",
+          "country_name": "Россия",
+          "region_name": "Карачаево-Черкессия",
+          "city_name": "Эльбрусский",
+          "poi_type_name_en": "attraction",
+          "poi_type_name": "Аттракция",
+          "name": "Камень Карчи",
+          "type_name_en": "monuments",
+          "type_name": "Памятник",
+          "subtype_name_en": "monument",
+          "subtype_name": "Памятник",
+          "scale_name_en": "small",
+          "scale_name": "Локальное место",
+          "icon_link": null,
+          "address": "",
+          "rate_avr": 0,
+          "photo_link": "/img_album/90576_115.jpg"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            43.9420167,
+            42.60715
+          ]
+        },
+        "properties": {
+          "id": "cfd121e8-4737-4a1e-95de-dc699f014f4e",
+          "country_name": "Россия",
+          "region_name": "Карачаево-Черкессия",
+          "city_name": "Красный Курган",
+          "poi_type_name_en": "attraction",
+          "poi_type_name": "Аттракция",
+          "name": "Мемориал воинам погибшим в ВОВ",
+          "type_name_en": "monuments",
+          "type_name": "Памятник",
+          "subtype_name_en": "war",
+          "subtype_name": "Военный",
+          "scale_name_en": "small",
+          "scale_name": "Локальное место",
+          "icon_link": null,
+          "address": "",
+          "rate_avr": 0,
+          "photo_link": "/img_album/91684_160.jpg"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            43.685643,
+            41.475965
+          ]
+        },
+        "properties": {
+          "id": "7daeb036-2d8d-4713-bda9-e37730bc59e6",
+          "country_name": "Россия",
+          "region_name": "Карачаево-Черкессия",
+          "city_name": "Зеленчукская",
+          "poi_type_name_en": "attraction",
+          "poi_type_name": "Аттракция",
+          "name": "Менгир",
+          "type_name_en": "historic",
+          "type_name": "Исторический",
+          "subtype_name_en": "building",
+          "subtype_name": "Здание",
+          "scale_name_en": "small",
+          "scale_name": "Локальное место",
+          "icon_link": null,
+          "address": "",
+          "rate_avr": 0,
+          "photo_link": "/img_album/91731_185.jpg"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            43.68593837,
+            41.47599693
+          ]
+        },
+        "properties": {
+          "id": "11eaa706-11a0-4d31-843b-0ba782f57ff7",
+          "country_name": "Россия",
+          "region_name": "Карачаево-Черкессия",
+          "city_name": "Нижний Архыз",
+          "poi_type_name_en": "attraction",
+          "poi_type_name": "Аттракция",
+          "name": "Нижне-Архызский музей",
+          "type_name_en": "historic",
+          "type_name": "Исторический",
+          "subtype_name_en": "museum",
+          "subtype_name": "Музей",
+          "scale_name_en": "small",
+          "scale_name": "Локальное место",
+          "icon_link": null,
+          "address": "",
+          "rate_avr": 0,
+          "photo_link": "/img_album/nizhnearkhyzskiimuzei.jpg"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            43.68593837,
+            41.47599693
+          ]
+        },
+        "properties": {
+          "id": "4c09ba2f-f299-47a2-b27f-8e7c34e26dd4",
+          "country_name": "Россия",
+          "region_name": "Карачаево-Черкессия",
+          "city_name": "Кавказский",
+          "poi_type_name_en": "attraction",
+          "poi_type_name": "Аттракция",
+          "name": "Памятник воинам-интернационалистам",
+          "type_name_en": "monuments",
+          "type_name": "Памятник",
+          "subtype_name_en": "war",
+          "subtype_name": "Военный",
+          "scale_name_en": "small",
+          "scale_name": "Локальное место",
+          "icon_link": null,
+          "address": "",
+          "rate_avr": 0,
+          "photo_link": "/img_album/91450_176.jpg"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            43.7536833,
+            41.90815
+          ]
+        },
+        "properties": {
+          "id": "59457a06-992e-4569-9ba6-8026f3b6443b",
+          "country_name": "Россия",
+          "region_name": "Карачаево-Черкессия",
+          "city_name": "Карачаевск",
+          "poi_type_name_en": "attraction",
+          "poi_type_name": "Аттракция",
+          "name": "Памятник жителям Каменномоста, павшим в годы ВОВ",
+          "type_name_en": "monuments",
+          "type_name": "Памятник",
+          "subtype_name_en": "war",
+          "subtype_name": "Военный",
+          "scale_name_en": "small",
+          "scale_name": "Локальное место",
+          "icon_link": null,
+          "address": "",
+          "rate_avr": 0,
+          "photo_link": "/img_album/91739_195.jpg"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            44.2282167,
+            42.0493333
+          ]
+        },
+        "properties": {
+          "id": "f741672c-d42b-411a-8a7a-5d96c49e138f",
+          "country_name": "Россия",
+          "region_name": "Карачаево-Черкессия",
+          "city_name": "Черкесск",
+          "poi_type_name_en": "attraction",
+          "poi_type_name": "Аттракция",
+          "name": "Памятник Кириллу и Мефодию",
+          "type_name_en": "monuments",
+          "type_name": "Памятник",
+          "subtype_name_en": "person",
+          "subtype_name": "Личности",
+          "scale_name_en": "small",
+          "scale_name": "Локальное место",
+          "icon_link": null,
+          "address": "",
+          "rate_avr": 0,
+          "photo_link": "/img_album/91733_110.jpg"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            43.7707167,
+            41.9121333
+          ]
+        },
+        "properties": {
+          "id": "52fe7a60-df7b-4168-a477-8c541cc2c285",
+          "country_name": "Россия",
+          "region_name": "Карачаево-Черкессия",
+          "city_name": "Карачаевск",
+          "poi_type_name_en": "attraction",
+          "poi_type_name": "Аттракция",
+          "name": "Памятник Курман-Али Курджиеву",
+          "type_name_en": "monuments",
+          "type_name": "Памятник",
+          "subtype_name_en": "person",
+          "subtype_name": "Личности",
+          "scale_name_en": "small",
+          "scale_name": "Локальное место",
+          "icon_link": null,
+          "address": "",
+          "rate_avr": 0,
+          "photo_link": "/img_album/91731_127.jpg"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            43.4397333,
+            41.7441667
+          ]
+        },
+        "properties": {
+          "id": "bef0bce8-1a49-4a48-a670-9daf902d1e18",
+          "country_name": "Россия",
+          "region_name": "Карачаево-Черкессия",
+          "city_name": "Теберда",
+          "poi_type_name_en": "attraction",
+          "poi_type_name": "Аттракция",
+          "name": "Памятник первым пограничникам",
+          "type_name_en": "monuments",
+          "type_name": "Памятник",
+          "subtype_name_en": "monument",
+          "subtype_name": "Памятник",
+          "scale_name_en": "small",
+          "scale_name": "Локальное место",
+          "icon_link": null,
+          "address": "",
+          "rate_avr": 0,
+          "photo_link": "/img_album/91450_162.jpg"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            43.6733833,
+            41.4298167
+          ]
+        },
+        "properties": {
+          "id": "ca577712-604d-400a-8067-7ab441dc4b7f",
+          "country_name": "Россия",
+          "region_name": "Карачаево-Черкессия",
+          "city_name": "Нижний Архыз",
+          "poi_type_name_en": "attraction",
+          "poi_type_name": "Аттракция",
+          "name": "Памятник погибшим партизанам",
+          "type_name_en": "monuments",
+          "type_name": "Памятник",
+          "subtype_name_en": "war",
+          "subtype_name": "Военный",
+          "scale_name_en": "small",
+          "scale_name": "Локальное место",
+          "icon_link": null,
+          "address": "",
+          "rate_avr": 0,
+          "photo_link": "/img_album/91450_124.jpg"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            43.8392833,
+            41.8943667
+          ]
+        },
+        "properties": {
+          "id": "22e9bc26-215e-4af8-9f66-18204946f1ca",
+          "country_name": "Россия",
+          "region_name": "Карачаево-Черкессия",
+          "city_name": "Карачаевск",
+          "poi_type_name_en": "attraction",
+          "poi_type_name": "Аттракция",
+          "name": "Памятник погибшим шахтерам и мемориал ВОВ",
+          "type_name_en": "monuments",
+          "type_name": "Памятник",
+          "subtype_name_en": "war",
+          "subtype_name": "Военный",
+          "scale_name_en": "small",
+          "scale_name": "Локальное место",
+          "icon_link": null,
+          "address": "",
+          "rate_avr": 0,
+          "photo_link": "/img_album/91743_154.jpg"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            43.3315333,
+            41.6699167
+          ]
+        },
+        "properties": {
+          "id": "1f4a735c-58b9-46d4-b498-545c8002bac8",
+          "country_name": "Россия",
+          "region_name": "Карачаево-Черкессия",
+          "city_name": "Домбай",
+          "poi_type_name_en": "attraction",
+          "poi_type_name": "Аттракция",
+          "name": "Памятник советским воинам",
+          "type_name_en": "monuments",
+          "type_name": "Памятник",
+          "subtype_name_en": "war",
+          "subtype_name": "Военный",
+          "scale_name_en": "small",
+          "scale_name": "Локальное место",
+          "icon_link": null,
+          "address": "",
+          "rate_avr": 0,
+          "photo_link": "/img_album/91450_149.jpg"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            44.2633333,
+            42.2322
+          ]
+        },
+        "properties": {
+          "id": "e403ead8-efbe-4159-9ce0-bbccdaab3bee",
+          "country_name": "Россия",
+          "region_name": "Карачаево-Черкессия",
+          "city_name": "Кавказский",
+          "poi_type_name_en": "attraction",
+          "poi_type_name": "Аттракция",
+          "name": "Памятник солдатам Великой Отечественной войны",
+          "type_name_en": "monuments",
+          "type_name": "Памятник",
+          "subtype_name_en": "war",
+          "subtype_name": "Военный",
+          "scale_name_en": "small",
+          "scale_name": "Локальное место",
+          "icon_link": null,
+          "address": "",
+          "rate_avr": 0,
+          "photo_link": "/img_album/91450_177.jpg"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            44.2282167,
+            42.0537333
+          ]
+        },
+        "properties": {
+          "id": "2df93a60-5a25-4395-bd8a-8b56c56813e6",
+          "country_name": "Россия",
+          "region_name": "Карачаево-Черкессия",
+          "city_name": "Черкесск",
+          "poi_type_name_en": "attraction",
+          "poi_type_name": "Аттракция",
+          "name": "Памятник Ю.А. Гагарину",
+          "type_name_en": "monuments",
+          "type_name": "Памятник",
+          "subtype_name_en": "person",
+          "subtype_name": "Личности",
+          "scale_name_en": "small",
+          "scale_name": "Локальное место",
+          "icon_link": null,
+          "address": "",
+          "rate_avr": 0,
+          "photo_link": "/img_album/91749_108.jpg"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            44.229,
+            42.0426333
+          ]
+        },
+        "properties": {
+          "id": "298aad0f-f28b-4482-8aac-e850308ca692",
+          "country_name": "Россия",
+          "region_name": "Карачаево-Черкессия",
+          "city_name": "Черкесск",
+          "poi_type_name_en": "attraction",
+          "poi_type_name": "Аттракция",
+          "name": "\"Памятник-стела \"\"Дружба народов Карачаево-Черкесии\"\"\"",
+          "type_name_en": "monuments",
+          "type_name": "Памятник",
+          "subtype_name_en": "monument",
+          "subtype_name": "Памятник",
+          "scale_name_en": "small",
+          "scale_name": "Локальное место",
+          "icon_link": null,
+          "address": "",
+          "rate_avr": 0,
+          "photo_link": "/img_album/90930_179.jpg"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            44.2295833,
+            42.0413
+          ]
+        },
+        "properties": {
+          "id": "e86da7e2-a459-44ff-b37e-cb384ef4f3a6",
+          "country_name": "Россия",
+          "region_name": "Карачаево-Черкессия",
+          "city_name": "Черкесск",
+          "poi_type_name_en": "attraction",
+          "poi_type_name": "Аттракция",
+          "name": "\"Парк \"\"Зелёный остров\"\"\"",
+          "type_name_en": "park",
+          "type_name": "Парк",
+          "subtype_name_en": "entertainment",
+          "subtype_name": "Парк аттракционов",
+          "scale_name_en": "small",
+          "scale_name": "Локальное место",
+          "icon_link": null,
+          "address": "",
+          "rate_avr": 0,
+          "photo_link": "/img_album/90930_182.jpg"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            44.2299833,
+            42.0548167
+          ]
+        },
+        "properties": {
+          "id": "b67f5da1-5b60-499a-a029-9d6184ffbd4b",
+          "country_name": "Россия",
+          "region_name": "Карачаево-Черкессия",
+          "city_name": "Черкесск",
+          "poi_type_name_en": "attraction",
+          "poi_type_name": "Аттракция",
+          "name": "Парк Победы",
+          "type_name_en": "park",
+          "type_name": "Парк",
+          "subtype_name_en": "culture_and_leisure",
+          "subtype_name": "Культура и отдых",
+          "scale_name_en": "small",
+          "scale_name": "Локальное место",
+          "icon_link": null,
+          "address": "",
+          "rate_avr": 0,
+          "photo_link": "/img_album/91749_110.jpg"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            44.2269167,
+            42.0472167
+          ]
+        },
+        "properties": {
+          "id": "22a4f58d-2b5d-4359-9809-8cbc79886878",
+          "country_name": "Россия",
+          "region_name": "Карачаево-Черкессия",
+          "city_name": "Черкесск",
+          "poi_type_name_en": "attraction",
+          "poi_type_name": "Аттракция",
+          "name": "Пешеходная улица (улица Первомайская)",
+          "type_name_en": "park",
+          "type_name": "Парк",
+          "subtype_name_en": "urban_space",
+          "subtype_name": "Городское пространство",
+          "scale_name_en": "small",
+          "scale_name": "Локальное место",
+          "icon_link": null,
+          "address": "",
+          "rate_avr": 0,
+          "photo_link": "/img_album/91749_128.jpg"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            44.2285833,
+            42.0500833
+          ]
+        },
+        "properties": {
+          "id": "31700786-09bb-4884-8cb0-a7d897f364b3",
+          "country_name": "Россия",
+          "region_name": "Карачаево-Черкессия",
+          "city_name": "Черкесск",
+          "poi_type_name_en": "attraction",
+          "poi_type_name": "Аттракция",
+          "name": "Сквер им. С. Есенина",
+          "type_name_en": "park",
+          "type_name": "Парк",
+          "subtype_name_en": "urban_space",
+          "subtype_name": "Городское пространство",
+          "scale_name_en": "small",
+          "scale_name": "Локальное место",
+          "icon_link": null,
+          "address": "",
+          "rate_avr": 0,
+          "photo_link": "/img_album/91733_111.jpg"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            44.2275167,
+            42.0481167
+          ]
+        },
+        "properties": {
+          "id": "ad0ba7b8-8efc-44e6-bb41-2d665f0ff3bc",
+          "country_name": "Россия",
+          "region_name": "Карачаево-Черкессия",
+          "city_name": "Черкесск",
+          "poi_type_name_en": "attraction",
+          "poi_type_name": "Аттракция",
+          "name": "Центральный парк",
+          "type_name_en": "park",
+          "type_name": "Парк",
+          "subtype_name_en": "culture_and_leisure",
+          "subtype_name": "Культура и отдых",
+          "scale_name_en": "small",
+          "scale_name": "Локальное место",
+          "icon_link": null,
+          "address": "",
+          "rate_avr": 0,
+          "photo_link": "/img_album/91732_182.jpg"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            43.5891167,
+            41.2787333
+          ]
+        },
+        "properties": {
+          "id": "6a275e1c-2e14-498f-aefb-3f3d6b9ac21d",
+          "country_name": "Россия",
+          "region_name": "Карачаево-Черкессия",
+          "city_name": "Архыз",
+          "poi_type_name_en": "attraction",
+          "poi_type_name": "Аттракция",
+          "name": "Баритовый водопад",
+          "type_name_en": "nature",
+          "type_name": "Природный",
+          "subtype_name_en": "waterfall",
+          "subtype_name": "Водопад",
+          "scale_name_en": "small",
+          "scale_name": "Локальное место",
+          "icon_link": null,
+          "address": "",
+          "rate_avr": 0,
+          "photo_link": "/img_album/91616_143.jpg"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            43.6335333,
+            41.8702167
+          ]
+        },
+        "properties": {
+          "id": "949d4169-4ac0-4b88-b33f-ae971e6cfefd",
+          "country_name": "Россия",
+          "region_name": "Карачаево-Черкессия",
+          "city_name": "Карачаевск",
+          "poi_type_name_en": "attraction",
+          "poi_type_name": "Аттракция",
+          "name": "Водопад Сынты",
+          "type_name_en": "nature",
+          "type_name": "Природный",
+          "subtype_name_en": "waterfall",
+          "subtype_name": "Водопад",
+          "scale_name_en": "small",
+          "scale_name": "Локальное место",
+          "icon_link": null,
+          "address": "",
+          "rate_avr": 0,
+          "photo_link": "/img_album/sinti.jpg"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            43.4056667,
+            41.7334667
+          ]
+        },
+        "properties": {
+          "id": "b8b5092c-7604-4c71-8bef-367c26b914de",
+          "country_name": "Россия",
+          "region_name": "Карачаево-Черкессия",
+          "city_name": "Теберда",
+          "poi_type_name_en": "attraction",
+          "poi_type_name": "Аттракция",
+          "name": "Водопад Шумка",
+          "type_name_en": "nature",
+          "type_name": "Природный",
+          "subtype_name_en": "waterfall",
+          "subtype_name": "Водопад",
+          "scale_name_en": "small",
+          "scale_name": "Локальное место",
+          "icon_link": null,
+          "address": "",
+          "rate_avr": 0,
+          "photo_link": "/img_album/91477_176.jpg"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            44.2497333,
+            42.4916833
+          ]
+        },
+        "properties": {
+          "id": "94549f20-4a61-40ea-b758-876660e7b966",
+          "country_name": "Россия",
+          "region_name": "Карачаево-Черкессия",
+          "city_name": "Кавказский",
+          "poi_type_name_en": "attraction",
+          "poi_type_name": "Аттракция",
+          "name": "Придорожная мечеть",
+          "type_name_en": "religious",
+          "type_name": "Религиозный",
+          "subtype_name_en": "mosque",
+          "subtype_name": "Мечеть",
+          "scale_name_en": "small",
+          "scale_name": "Локальное место",
+          "icon_link": null,
+          "address": "",
+          "rate_avr": 0,
+          "photo_link": "/img_album/91450_180.jpg"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            43.29105,
+            41.6217333
+          ]
+        },
+        "properties": {
+          "id": "9badbffc-66b0-43bd-9243-da29356fc600",
+          "country_name": "Россия",
+          "region_name": "Карачаево-Черкессия",
+          "city_name": "Домбай",
+          "poi_type_name_en": "attraction",
+          "poi_type_name": "Аттракция",
+          "name": "Домбайская поляна",
+          "type_name_en": "nature",
+          "type_name": "Природный",
+          "subtype_name_en": "lawn",
+          "subtype_name": "Поляна",
+          "scale_name_en": "small",
+          "scale_name": "Локальное место",
+          "icon_link": null,
+          "address": "",
+          "rate_avr": 0,
+          "photo_link": "/img_album/90414_184.jpg"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            43.58953619,
+            41.27944567
+          ]
+        },
+        "properties": {
+          "id": "7094fe4c-ecfa-46c9-ad5b-e26d11a2729a",
+          "country_name": "Россия",
+          "region_name": "Карачаево-Черкессия",
+          "city_name": "Архыз",
+          "poi_type_name_en": "attraction",
+          "poi_type_name": "Аттракция",
+          "name": "Казачий водопад",
+          "type_name_en": "nature",
+          "type_name": "Природный",
+          "subtype_name_en": "waterfall",
+          "subtype_name": "Водопад",
+          "scale_name_en": "small",
+          "scale_name": "Локальное место",
+          "icon_link": null,
+          "address": "",
+          "rate_avr": 0,
+          "photo_link": "/img_album/vodopad-kazachii.jpg"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            44.22625,
+            42.0490167
+          ]
+        },
+        "properties": {
+          "id": "a50adb70-a43d-43db-b62f-9a47108e4664",
+          "country_name": "Россия",
+          "region_name": "Карачаево-Черкессия",
+          "city_name": "Черкесск",
+          "poi_type_name_en": "attraction",
+          "poi_type_name": "Аттракция",
+          "name": "Музей-заповедник им. М.О. Байчоровой",
+          "type_name_en": "nature",
+          "type_name": "Природный",
+          "subtype_name_en": "reserve",
+          "subtype_name": "Заповедник",
+          "scale_name_en": "small",
+          "scale_name": "Локальное место",
+          "icon_link": null,
+          "address": "",
+          "rate_avr": 0,
+          "photo_link": "/img_album/91749_142.jpg"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            43.5292,
+            41.3529167
+          ]
+        },
+        "properties": {
+          "id": "570891cc-56ad-4830-9e12-22980c2de006",
+          "country_name": "Россия",
+          "region_name": "Карачаево-Черкессия",
+          "city_name": "Архыз",
+          "poi_type_name_en": "attraction",
+          "poi_type_name": "Аттракция",
+          "name": "\"Озеро \"\"Белкау-Кель\"\"\"",
+          "type_name_en": "nature",
+          "type_name": "Природный",
+          "subtype_name_en": "lake",
+          "subtype_name": "Озеро",
+          "scale_name_en": "small",
+          "scale_name": "Локальное место",
+          "icon_link": null,
+          "address": "",
+          "rate_avr": 0,
+          "photo_link": "/img_album/91816_106.jpg"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            43.5367833,
+            41.3381667
+          ]
+        },
+        "properties": {
+          "id": "4978e59e-bf8f-412d-a830-bf1ba0b27552",
+          "country_name": "Россия",
+          "region_name": "Карачаево-Черкессия",
+          "city_name": "Архыз",
+          "poi_type_name_en": "attraction",
+          "poi_type_name": "Аттракция",
+          "name": "Озеро Любви",
+          "type_name_en": "nature",
+          "type_name": "Природный",
+          "subtype_name_en": "lake",
+          "subtype_name": "Озеро",
+          "scale_name_en": "small",
+          "scale_name": "Локальное место",
+          "icon_link": null,
+          "address": "",
+          "rate_avr": 0,
+          "photo_link": "/img_album/91816_113.jpg"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            43.4881,
+            41.0758667
+          ]
+        },
+        "properties": {
+          "id": "bfd3beda-f1be-46da-9a54-aa93b18ffbbf",
+          "country_name": "Россия",
+          "region_name": "Карачаево-Черкессия",
+          "city_name": "Архыз",
+          "poi_type_name_en": "attraction",
+          "poi_type_name": "Аттракция",
+          "name": "Озеро Семицветное",
+          "type_name_en": "nature",
+          "type_name": "Природный",
+          "subtype_name_en": "lake",
+          "subtype_name": "Озеро",
+          "scale_name_en": "small",
+          "scale_name": "Локальное место",
+          "icon_link": null,
+          "address": "",
+          "rate_avr": 0,
+          "photo_link": "/img_album/91815_174.jpg"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            43.7523167,
+            41.909
+          ]
+        },
+        "properties": {
+          "id": "a68d4e90-850e-46f6-ae8b-dd94c20f6bfe",
+          "country_name": "Россия",
+          "region_name": "Карачаево-Черкессия",
+          "city_name": "Карачаевск",
+          "poi_type_name_en": "attraction",
+          "poi_type_name": "Аттракция",
+          "name": "\"Памятник природы \"\"Чертовы колодцы\"\"\"",
+          "type_name_en": "nature",
+          "type_name": "Природный",
+          "subtype_name_en": "river",
+          "subtype_name": "Река",
+          "scale_name_en": "small",
+          "scale_name": "Локальное место",
+          "icon_link": null,
+          "address": "",
+          "rate_avr": 0,
+          "photo_link": "/img_album/90575_129.jpg"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            43.52485,
+            41.2325333
+          ]
+        },
+        "properties": {
+          "id": "d6882610-bd7c-4c30-a406-41e49ecb54c1",
+          "country_name": "Россия",
+          "region_name": "Карачаево-Черкессия",
+          "city_name": "Архыз",
+          "poi_type_name_en": "attraction",
+          "poi_type_name": "Аттракция",
+          "name": "Поляна Таулу",
+          "type_name_en": "nature",
+          "type_name": "Природный",
+          "subtype_name_en": "lawn",
+          "subtype_name": "Поляна",
+          "scale_name_en": "small",
+          "scale_name": "Локальное место",
+          "icon_link": null,
+          "address": "",
+          "rate_avr": 0,
+          "photo_link": "/img_album/91730_107.jpg"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            43.9414167,
+            42.53295
+          ]
+        },
+        "properties": {
+          "id": "e407a06c-ad33-4013-984f-f7d8390dd47c",
+          "country_name": "Россия",
+          "region_name": "Карачаево-Черкессия",
+          "city_name": "Учкекен",
+          "poi_type_name_en": "attraction",
+          "poi_type_name": "Аттракция",
+          "name": "Рим-Гора",
+          "type_name_en": "nature",
+          "type_name": "Природный",
+          "subtype_name_en": "mountain",
+          "subtype_name": "Гора",
+          "scale_name_en": "small",
+          "scale_name": "Локальное место",
+          "icon_link": null,
+          "address": "",
+          "rate_avr": 0,
+          "photo_link": "/img_album/90576_116.jpg"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            43.6856167,
+            41.4514333
+          ]
+        },
+        "properties": {
+          "id": "1fdee4bf-0d54-49d6-a6a8-af28152dbb41",
+          "country_name": "Россия",
+          "region_name": "Карачаево-Черкессия",
+          "city_name": "Нижний Архыз",
+          "poi_type_name_en": "attraction",
+          "poi_type_name": "Аттракция",
+          "name": "\"Скала \"\"Кораблик\"\"\"",
+          "type_name_en": "nature",
+          "type_name": "Природный",
+          "subtype_name_en": "mountain",
+          "subtype_name": "Гора",
+          "scale_name_en": "small",
+          "scale_name": "Локальное место",
+          "icon_link": null,
+          "address": "",
+          "rate_avr": 0,
+          "photo_link": "/img_album/skala-korablik-logo.jpg"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            43.2652333,
+            41.6918667
+          ]
+        },
+        "properties": {
+          "id": "aa58c691-9376-435c-858e-8499e0ac4f87",
+          "country_name": "Россия",
+          "region_name": "Карачаево-Черкессия",
+          "city_name": "Домбай",
+          "poi_type_name_en": "attraction",
+          "poi_type_name": "Аттракция",
+          "name": "Чучхурский водопад",
+          "type_name_en": "nature",
+          "type_name": "Природный",
+          "subtype_name_en": "waterfall",
+          "subtype_name": "Водопад",
+          "scale_name_en": "small",
+          "scale_name": "Локальное место",
+          "icon_link": null,
+          "address": "",
+          "rate_avr": 0,
+          "photo_link": "/img_album/91616_127.jpg"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            43.5655833,
+            41.2787333
+          ]
+        },
+        "properties": {
+          "id": "b913bc86-6498-406b-ace0-cd58aa03c3ae",
+          "country_name": "Россия",
+          "region_name": "Карачаево-Черкессия",
+          "city_name": "Архыз",
+          "poi_type_name_en": "attraction",
+          "poi_type_name": "Аттракция",
+          "name": "Мечеть",
+          "type_name_en": "religious",
+          "type_name": "Религиозный",
+          "subtype_name_en": "mosque",
+          "subtype_name": "Мечеть",
+          "scale_name_en": "small",
+          "scale_name": "Локальное место",
+          "icon_link": null,
+          "address": "",
+          "rate_avr": 0,
+          "photo_link": "/img_album/91738_147.jpg"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            43.7870667,
+            41.5374667
+          ]
+        },
+        "properties": {
+          "id": "3f4eaac0-927a-412c-80bf-8b886b134bc8",
+          "country_name": "Россия",
+          "region_name": "Карачаево-Черкессия",
+          "city_name": "Зеленчукская",
+          "poi_type_name_en": "attraction",
+          "poi_type_name": "Аттракция",
+          "name": "Мечеть",
+          "type_name_en": "religious",
+          "type_name": "Религиозный",
+          "subtype_name_en": "mosque",
+          "subtype_name": "Мечеть",
+          "scale_name_en": "small",
+          "scale_name": "Локальное место",
+          "icon_link": null,
+          "address": "",
+          "rate_avr": 0,
+          "photo_link": "/img_album/91738_149.jpg"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            43.4489667,
+            41.7391333
+          ]
+        },
+        "properties": {
+          "id": "8775a20c-2c3c-4c7b-b87d-901ce9b47852",
+          "country_name": "Россия",
+          "region_name": "Карачаево-Черкессия",
+          "city_name": "Теберда",
+          "poi_type_name_en": "attraction",
+          "poi_type_name": "Аттракция",
+          "name": "Мечеть",
+          "type_name_en": "religious",
+          "type_name": "Религиозный",
+          "subtype_name_en": "mosque",
+          "subtype_name": "Мечеть",
+          "scale_name_en": "small",
+          "scale_name": "Локальное место",
+          "icon_link": null,
+          "address": "",
+          "rate_avr": 0,
+          "photo_link": "/img_album/91743_116.jpg"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            43.9412,
+            42.6079333
+          ]
+        },
+        "properties": {
+          "id": "b0fe5aa9-1cf9-4124-9c85-e82737239bc7",
+          "country_name": "Россия",
+          "region_name": "Карачаево-Черкессия",
+          "city_name": "Красный Курган",
+          "poi_type_name_en": "attraction",
+          "poi_type_name": "Аттракция",
+          "name": "Мечеть Альхамдулилляхи",
+          "type_name_en": "religious",
+          "type_name": "Религиозный",
+          "subtype_name_en": "mosque",
+          "subtype_name": "Мечеть",
+          "scale_name_en": "small",
+          "scale_name": "Локальное место",
+          "icon_link": null,
+          "address": "",
+          "rate_avr": 0,
+          "photo_link": "/img_album/91684_162.jpg"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            43.2886,
+            41.6222333
+          ]
+        },
+        "properties": {
+          "id": "5b59b645-8490-4721-8098-d433187a82c4",
+          "country_name": "Россия",
+          "region_name": "Карачаево-Черкессия",
+          "city_name": "Домбай",
+          "poi_type_name_en": "attraction",
+          "poi_type_name": "Аттракция",
+          "name": "Мечеть Домбай",
+          "type_name_en": "religious",
+          "type_name": "Религиозный",
+          "subtype_name_en": "mosque",
+          "subtype_name": "Мечеть",
+          "scale_name_en": "small",
+          "scale_name": "Локальное место",
+          "icon_link": null,
+          "address": "",
+          "rate_avr": 0,
+          "photo_link": "/img_album/91450_150.jpg"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            43.6916333,
+            41.4866667
+          ]
+        },
+        "properties": {
+          "id": "0bb9e2ca-88af-4270-aab7-850e9d7a7171",
+          "country_name": "Россия",
+          "region_name": "Карачаево-Черкессия",
+          "city_name": "Нижний Архыз",
+          "poi_type_name_en": "attraction",
+          "poi_type_name": "Аттракция",
+          "name": "Северный храм",
+          "type_name_en": "religious",
+          "type_name": "Религиозный",
+          "subtype_name_en": "church",
+          "subtype_name": "Храм",
+          "scale_name_en": "small",
+          "scale_name": "Локальное место",
+          "icon_link": null,
+          "address": "",
+          "rate_avr": 0,
+          "photo_link": "/img_album/91442_124.jpg"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            44.2276167,
+            42.0542
+          ]
+        },
+        "properties": {
+          "id": "70d79d4a-e8d8-4381-927e-94008905c36e",
+          "country_name": "Россия",
+          "region_name": "Карачаево-Черкессия",
+          "city_name": "Черкесск",
+          "poi_type_name_en": "attraction",
+          "poi_type_name": "Аттракция",
+          "name": "Собор Николая Чудотворца",
+          "type_name_en": "religious",
+          "type_name": "Религиозный",
+          "subtype_name_en": "church",
+          "subtype_name": "Храм",
+          "scale_name_en": "small",
+          "scale_name": "Локальное место",
+          "icon_link": null,
+          "address": "",
+          "rate_avr": 0,
+          "photo_link": "/img_album/91749_143.jpg"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            43.9505333,
+            42.5292833
+          ]
+        },
+        "properties": {
+          "id": "83ca13c0-a852-46d9-ae12-f7b6b6d20194",
+          "country_name": "Россия",
+          "region_name": "Карачаево-Черкессия",
+          "city_name": "Учкекен",
+          "poi_type_name_en": "attraction",
+          "poi_type_name": "Аттракция",
+          "name": "Центральная мечеть",
+          "type_name_en": "religious",
+          "type_name": "Религиозный",
+          "subtype_name_en": "mosque",
+          "subtype_name": "Мечеть",
+          "scale_name_en": "small",
+          "scale_name": "Локальное место",
+          "icon_link": null,
+          "address": "",
+          "rate_avr": 0,
+          "photo_link": "/img_album/91477_186.jpg"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            44.2662,
+            42.2326667
+          ]
+        },
+        "properties": {
+          "id": "36cde5e2-95ab-454b-8f71-f96f46ee2e3d",
+          "country_name": "Россия",
+          "region_name": "Карачаево-Черкессия",
+          "city_name": "Кавказский",
+          "poi_type_name_en": "attraction",
+          "poi_type_name": "Аттракция",
+          "name": "Центральная Соборная Мечеть Им. Имама Абу Ханифы",
+          "type_name_en": "religious",
+          "type_name": "Религиозный",
+          "subtype_name_en": "church",
+          "subtype_name": "Храм",
+          "scale_name_en": "small",
+          "scale_name": "Локальное место",
+          "icon_link": null,
+          "address": "",
+          "rate_avr": 0,
+          "photo_link": "/img_album/91450_178.jpg"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            44.2103833,
+            42.0418167
+          ]
+        },
+        "properties": {
+          "id": "c1652840-65f1-471a-81fd-a1b2c72af1fb",
+          "country_name": "Россия",
+          "region_name": "Карачаево-Черкессия",
+          "city_name": "Черкесск",
+          "poi_type_name_en": "attraction",
+          "poi_type_name": "Аттракция",
+          "name": "Церковь Покрова Пресвятой Богородицы и парк",
+          "type_name_en": "religious",
+          "type_name": "Религиозный",
+          "subtype_name_en": "mosque",
+          "subtype_name": "Мечеть",
+          "scale_name_en": "small",
+          "scale_name": "Локальное место",
+          "icon_link": null,
+          "address": "",
+          "rate_avr": 0,
+          "photo_link": "/img_album/91749_125.jpg"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            44.26575,
+            42.2311
+          ]
+        },
+        "properties": {
+          "id": "3443ee36-4e06-48d9-b72a-22b56d219e14",
+          "country_name": "Россия",
+          "region_name": "Карачаево-Черкессия",
+          "city_name": "Кавказский",
+          "poi_type_name_en": "attraction",
+          "poi_type_name": "Аттракция",
+          "name": "Церковь Святого Великомученика Георгия Победоносца",
+          "type_name_en": "religious",
+          "type_name": "Религиозный",
+          "subtype_name_en": "church",
+          "subtype_name": "Храм",
+          "scale_name_en": "small",
+          "scale_name": "Локальное место",
+          "icon_link": null,
+          "address": "",
+          "rate_avr": 0,
+          "photo_link": "/img_album/91450_179.jpg"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            43.7776167,
+            41.9134833
+          ]
+        },
+        "properties": {
+          "id": "d2347ba0-c4ab-4a1a-8fcf-ddd5826e266a",
+          "country_name": "Россия",
+          "region_name": "Карачаево-Черкессия",
+          "city_name": "Карачаевск",
+          "poi_type_name_en": "attraction",
+          "poi_type_name": "Аттракция",
+          "name": "Церковь святого Целителя Пантелеимона",
+          "type_name_en": "religious",
+          "type_name": "Религиозный",
+          "subtype_name_en": "church",
+          "subtype_name": "Храм",
+          "scale_name_en": "small",
+          "scale_name": "Локальное место",
+          "icon_link": null,
+          "address": "",
+          "rate_avr": 0,
+          "photo_link": "/img_album/91739_197.jpg"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            43.6865167,
+            41.4707
+          ]
+        },
+        "properties": {
+          "id": "0d8c6b0e-0d07-4e1a-99bf-d456efb6f916",
+          "country_name": "Россия",
+          "region_name": "Карачаево-Черкессия",
+          "city_name": "Нижний Архыз",
+          "poi_type_name_en": "attraction",
+          "poi_type_name": "Аттракция",
+          "name": "Церковь Спаса Нерукотворного Образа",
+          "type_name_en": "religious",
+          "type_name": "Религиозный",
+          "subtype_name_en": "church",
+          "subtype_name": "Храм",
+          "scale_name_en": "small",
+          "scale_name": "Локальное место",
+          "icon_link": null,
+          "address": "",
+          "rate_avr": 0,
+          "photo_link": "/img_album/91450_125.jpg"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            43.68753593,
+            41.45833671
+          ]
+        },
+        "properties": {
+          "id": "eb9c5419-1539-47d7-a6c0-dac0359fa9d4",
+          "country_name": "Россия",
+          "region_name": "Карачаево-Черкессия",
+          "city_name": "Нижний Архыз",
+          "poi_type_name_en": "attraction",
+          "poi_type_name": "Аттракция",
+          "name": "Южный (Ильинский) храм",
+          "type_name_en": "religious",
+          "type_name": "Религиозный",
+          "subtype_name_en": "church",
+          "subtype_name": "Храм",
+          "scale_name_en": "small",
+          "scale_name": "Локальное место",
+          "icon_link": null,
+          "address": "",
+          "rate_avr": 0,
+          "photo_link": "/img_album/90575_176.jpg"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            43.5447667,
+            41.1814833
+          ]
+        },
+        "properties": {
+          "id": "ff478f47-ba1f-46f5-a4dd-4e60240b15ec",
+          "country_name": "Россия",
+          "region_name": "Карачаево-Черкессия",
+          "city_name": "Домбай",
+          "poi_type_name_en": "attraction",
+          "poi_type_name": "Аттракция",
+          "name": "Канатные дороги к подножью хребта Абишира-Ахуба",
+          "type_name_en": "sport",
+          "type_name": "Спортивный",
+          "subtype_name_en": "funicular",
+          "subtype_name": "Канатная дорога",
+          "scale_name_en": "small",
+          "scale_name": "Локальное место",
+          "icon_link": null,
+          "address": "",
+          "rate_avr": 0,
+          "photo_link": "/img_album/91647_182.jpg"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            43.8846167,
+            42.58815
+          ]
+        },
+        "properties": {
+          "id": "69a6e236-a804-4c89-841a-85b560d11171",
+          "country_name": "Россия",
+          "region_name": "Карачаево-Черкессия",
+          "city_name": "Красный Курган",
+          "poi_type_name_en": "attraction",
+          "poi_type_name": "Аттракция",
+          "name": "\"Экстрим-парк \"\"Медовый\"\"\"",
+          "type_name_en": "sport",
+          "type_name": "Спортивный",
+          "subtype_name_en": "extrim",
+          "subtype_name": "Экстрим",
+          "scale_name_en": "small",
+          "scale_name": "Локальное место",
+          "icon_link": null,
+          "address": "",
+          "rate_avr": 0,
+          "photo_link": "/img_album/extrim_medovii.jpg"
+        }
+      }
+    ]
+  }

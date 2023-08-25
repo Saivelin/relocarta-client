@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "fieldName": "items",
+    "displayName": "Мои объявления"
+  },
+  {
+    "id": 2,
+    "fieldName": "review",
+    "displayName": "Мои отзывы"
+  },
+  {
+    "id": 3,
+    "fieldName": "promotion",
+    "displayName": "Услуги продвижения"
+  },
+  {
+    "id": 4,
+    "fieldName": "account",
+    "displayName": "Настройки профиля"
+  }
+]

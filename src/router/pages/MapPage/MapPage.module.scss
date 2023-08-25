@@ -1,0 +1,87 @@
+.center {
+    width: 1260px;
+    margin: 0 auto;
+}
+
+.search {
+    margin-bottom: 16px;
+}
+
+.searchWrap {
+    width: 1260px;
+    margin: 0 auto 25px;
+}
+
+.map {
+    position: relative;
+    border: solid 30px #fff;
+    margin: 0 auto 55px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+
+.title {
+    text-align: center;
+    font-size: 48px;
+}
+
+.link {
+    text-decoration: none;
+    line-height: 83px;
+}
+
+.text {
+    display: inline-flex;
+    align-items: flex-end;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+    color: #248742;
+}
+
+.lookall{
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.button {
+    position: absolute;
+    margin-bottom: 25px;
+    background: #248742;
+    color: #ffff;
+}
+
+.card__title {
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 29px;
+text-align: center;
+color: #565656;
+white-space: normal;
+}
+
+.card__description{
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 16px;
+text-align: center;
+color: #565656;
+}
+
+.creation{
+    background-color: #fff;
+}
+
+.container {
+        max-width: 1062px;
+        margin: 0 auto;
+        padding: 0 15px;
+        overflow: hidden;
+}

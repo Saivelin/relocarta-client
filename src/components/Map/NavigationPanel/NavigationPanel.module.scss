@@ -1,0 +1,158 @@
+.navigation {
+  position: fixed;
+  left: -400px;
+  top: 80px;
+  z-index: 11;
+  transition: left 0.4s;
+  width: 320px;
+  height: 80vh;
+  max-height: 598px;
+  background: #fff;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  padding: 0 12px 12px 12px;
+  border-radius: 4px;
+
+  display: flex;
+  flex-direction: column;
+}
+
+.cover {
+  //width: 320px;
+  height: 94px;
+  position: relative;
+}
+
+.text {
+  position: absolute;
+  z-index: 1;
+  color: #fff;
+  text-align: center;
+}
+
+@media (max-width: 480px) {
+  .navigation {
+    max-height: 80vh;
+  }
+}
+
+.isActive {
+  left: 20px;
+}
+
+.header {
+  height: 30px;
+  background: #464553;
+  color: #fff;
+  border-radius: 4px 4px 0 0;
+  display: flex;
+  align-items: center;
+  margin: 0 -12px;
+  //padding-left: 12px;
+}
+
+.isExpand {
+  height: auto;
+  padding-bottom: 0;
+
+  .header {
+    border-radius: 4px;
+  }
+}
+
+.info {
+  flex: 1;
+  display: flex;
+  justify-content: space-between;
+  gap: 8px;
+  padding-left: 12px;
+}
+
+.infoItem {
+  display: flex;
+  gap: 4px;
+  align-items: center;
+}
+
+.expand {
+  cursor: pointer;
+  padding-left: 12px;
+  display: flex;
+  user-select: none;
+}
+
+.close {
+  margin-left: auto;
+  cursor: pointer;
+  padding: 0 12px;
+}
+
+.cover {
+  height: 94px;
+  //background: url(/images/nav.jpg);
+  margin: 0 -12px;
+
+  //color: #fff;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.logo {
+  background: #4c5661;
+  width: 26px;
+  height: 26px;
+  border-radius: 50%;
+  border: 1.5px solid #ffffff;
+
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer {
+  display: flex;
+  margin-top: 12px;
+  align-items: center;
+}
+
+.slider {
+  flex: 1;
+}
+
+.button {
+  background: #53a1d1;
+  border-radius: 4px;
+
+  color: #fff !important;
+
+  text-align: center;
+  cursor: pointer;
+  height: 24px;
+  border: none !important;
+  display: flex;
+  align-items: center;
+  margin-left: auto;
+  padding-top: 0;
+  padding-bottom: 2px;
+}
+
+.list {
+  overflow: auto;
+  margin: 0 -12px;
+}
+
+.modal {
+  animation-duration: 0s !important;
+}

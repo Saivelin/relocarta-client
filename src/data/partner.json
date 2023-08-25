@@ -1,0 +1,20 @@
+{
+  "company": {
+    "id": "81ad078e-e36c-48ac-a400-d509b1421fa8",
+    "name": "ОАО Отели",
+    "form_name": "Юридическое лицо",
+    "date_created": "2023-06-30T08:15:40.116Z",
+    "description": "Краткое описание Краткое описание Краткое описание  Краткое описание Краткое описание Краткое описание  Краткое описание Краткое описание Краткое описание",
+    "partner_verified": true,
+    "email_verified": true,
+    "period": 1110000000,
+    "rate_avr": 3.2,
+    "rates_count": 10,
+    "views_count": 1648
+  },
+  "security": {
+    "email": "info@novitravel.ru",
+    "phone": "+79214390476",
+    "pass_date_modified": "2023-06-30T08:15:40.116Z"
+  }
+}

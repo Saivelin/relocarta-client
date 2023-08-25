@@ -1,0 +1,39 @@
+.trips {
+    padding: 24px 10px 24px 0px;
+  }
+  
+  .tripTitle {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+  }
+  
+  .tripTitle,
+  .tripItem {
+    margin-bottom: 16px;
+  }
+  .tripItem {
+    padding: 8px 0;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .tripItem:hover {
+    background: #eee;
+  }
+
+  .isActive {
+    background: #eee;
+  }
+
+  .tripList {
+    max-height: 400px;
+    overflow: auto;
+    padding-right: 16px;
+  }
+
+  .delete {
+    padding: 10px
+  }

@@ -1,0 +1,144 @@
+.page {
+  --pd: 16px;
+}
+
+.header {
+  background: linear-gradient(93.5deg, #fcdff0 0%, #d8f0f2 100%);
+  padding: 65px 0 60px;
+  margin-bottom: 60px;
+}
+
+.search {
+  margin-bottom: 24px;
+}
+
+.filters {
+  display: flex;
+  gap: 12px;
+  align-items: flex-end;
+}
+
+.select {
+  flex: 1;
+}
+
+.deleteButton {
+  margin-left: auto;
+}
+@media (max-width: 768px) {
+  .filterWrap,
+  .filters {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  // .select {
+  //   width: 100%;
+  //   max-width: 100%;
+  // }
+}
+
+.center {
+  max-width: calc(1075px + var(--pd) + var(--pd));
+  padding: var(--pd);
+  margin: 0 auto;
+}
+
+.cards {
+  max-width: 1075px;
+  margin: 0 auto;
+  padding: 0 16px;
+}
+
+.bottom {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 60px;
+}
+
+.group {
+  position: relative;
+  margin-bottom: 60px;
+}
+@media (max-width: 576px) {
+  .group {
+    margin-bottom: 35px;
+  }
+}
+
+.region {
+  display: flex;
+  gap: 10px;
+  color: #53a1d1;
+  margin-bottom: 20px;
+}
+
+.regionName {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 24px;
+  color: rgba(0, 32, 51, 0.6);
+}
+
+.count {
+  max-width: 1075px;
+  margin: 0 auto 20px;
+  padding: 0 16px;
+
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+
+  color: rgba(0, 32, 51, 0.3);
+}
+
+.pagination {
+  width: 100%;
+  max-width: 300px;
+  margin: 0 auto 60px;
+
+  :global {
+    .ant-pagination-item {
+      min-width: 50px !important;
+      height: 50px;
+    }
+    .ant-pagination-item-active {
+      background-color: rgba(109, 198, 130, 0.1) !important;
+      border-radius: 100%;
+      border: none;
+    }
+
+    .ant-pagination-item a,
+    .ant-pagination-item-link-icon {
+      color: #248742 !important;
+    }
+  }
+}
+
+@media (max-width: 576px) {
+  .pagination {
+    width: 100%;
+    max-width: 300px;
+    margin: 0px auto 35px;
+
+    :global {
+      & {
+        height: 32px !important;
+      }
+      .ant-pagination-item {
+        max-width: 32px !important;
+        width: 32px !important;
+        height: 32px !important;
+        min-width: 32px !important;
+      }
+
+      .ant-pagination-item a {
+        font-size: 12px !important;
+      }
+    }
+  }
+}

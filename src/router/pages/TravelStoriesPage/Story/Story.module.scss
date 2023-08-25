@@ -1,0 +1,254 @@
+.travelstories {}
+.container {
+    max-width: 1063px;
+    margin: 0 auto;
+    padding: 0 15px 0;
+    overflow: hidden;
+}
+.header {
+    background-image:  url(/images/FrameStories.svg), linear-gradient(to right, #11312C, #11312C);
+    background-position: top;
+    background-repeat: repeat, no-repeat;
+    background-size: auto, cover;
+}
+.header__date {
+    display: flex;
+    justify-content: flex-end;
+    font-family: Montserrat;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 18px;
+    color: #FFD400;
+    padding: 40px 0 15px;
+    border-bottom: 1px dashed #FFD400;
+}
+.header__title {
+    font-family: 'Shantell Sans', cursive;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 60px;
+    color: #FFD400;
+    text-align: center;
+    padding: 30px 0 35px;
+}
+.content {
+    background-color: #E8E8E8;
+}
+.user__wrapper {
+    margin: 40px 0 65px;
+    display: flex;
+    align-items: center;
+    gap: 40px;
+}
+.user__avatar {
+    border-radius: 50%;
+    border: 6px solid #FFD400;
+    background-color: #fff;
+    overflow: hidden;
+    max-width: 120px;
+    & img {
+        width: 100%;
+        height: auto;
+    }
+}
+.user__info {
+    display: flex;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    gap: 0px 50px;
+}
+.info__item {
+    flex: 0 1 200px;
+}
+.info__item_title {
+    font-family: Montserrat;
+    font-size: 12px;
+    line-height: 15px;
+    color: #565656;
+    border-bottom: 1px dashed #565656;
+    padding: 0 0 10px;
+}
+.info__item_text {
+    font-family: Montserrat;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000;
+    padding: 5px 0 0;
+}
+.stories__items {
+    margin: 0 0 125px 0;
+}
+.stories__item {
+    margin: 0 0 50px;
+}
+.story__title {
+    font-family: 'Shantell Sans', cursive;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 50px;
+    color: #565656;
+    margin: 0 0 50px 0;
+}
+.story__text {
+    font-family: Montserrat;
+    font-size: 20px;
+    line-height: 34px;
+    color: #565656;
+    margin: 0 0 70px;
+}
+.story__image_wrapper {
+    position: relative;
+    width: 100%;
+}
+.story__image {
+    max-width: 970px;
+    max-height: 540px;
+    overflow: hidden;
+    & img {
+        width: 100%;
+        height: auto;
+        object-fit: cover;
+        object-position: 50% 50%;;
+    }
+}
+.frame__wrapper {
+    position: relative;
+    z-index: 0;
+    padding-right: 5%;
+}
+.image__frame {
+    filter: url('#border-radius');
+    width: 95%;
+    height: 100%;
+    position: absolute;
+    z-index: -1;
+    top: -5%;
+    left: 5%;
+}
+.image__frame_before {
+        padding-top: 55%;
+        clip-path: polygon(0 0, 100% 0, 95% 100%, 0 100%);
+}
+.route__info {
+    position: absolute;
+    left: 15px;
+    top: 20px;
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    background-color: #fff;
+    border-radius: 12px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    padding: 18px 10px;
+}
+.route__item {
+    display: flex;
+    align-items: center;
+}
+.route__icon {
+    width: 14px;
+    margin-right: 10px;
+}
+.route__value {
+    font-family: Montserrat;
+    font-size: 14px;
+    line-height: 17px;
+    color: #8C8C8C;
+}
+.route__logo {
+    position: absolute;
+    left: 15px;
+    bottom: 20px;
+}
+
+.other_story__row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 27px;
+}
+.other_story__card {
+    flex: 0 1 calc(33.333% - 18px);
+    background-color: #F0F8E8;
+    padding: 14px 12px;
+    border-radius: 31px;
+    box-shadow: 4px 5px 10px rgba(0, 0, 0, 0.25);
+    cursor: pointer;
+}
+.other_story__img {
+    display: flex;
+    border-radius: 22px;
+    overflow: hidden;
+    min-height: 312px;
+    margin: 0 0 10px;
+    & img {
+        width: 100%;
+        height: auto;
+        -o-object-fit: cover;
+        object-fit: cover;
+    }
+}
+.other_story__user {
+    position: relative;
+    font-family: Montserrat;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 17px;
+    color: #565656;
+    margin: 0 0 8px;
+}
+.other_story__user_avatar {
+    position: absolute;
+    bottom: 0;
+    right: 5%;
+    border-radius: 50%;
+    border: 4px solid #FFD400;
+    overflow: hidden;
+    max-width: 90px;
+    background-color: #fff;
+    & img {
+        width: 100%;
+        height: auto;
+    }
+}
+.other_story__date {
+    font-family: Montserrat;
+    font-size: 16px;
+    line-height: 17px;
+    color: #565656;
+    margin: 0 0 17px;
+}
+.other_story__wave {
+    height: 7px;
+    background-image:  url(/images/wave.svg);
+    background-position: center;
+    background-repeat: repeat;
+    background-size: auto;
+    margin: 0 0 24px;
+}
+.other_story__text {
+    font-family: Montserrat;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 27px;
+    color: #565656;
+}
+
+.stories__item_ggwp {
+    margin: 0 0 125px;
+}
+
+@media (max-width: 1200px) {
+    .other_story__card {
+        flex: 0 1 calc(50% - 14px);
+    }
+}
+@media (max-width: 768px) {
+    .other_story__card {
+        flex: 0 1 100%;
+    }
+}
+@media (max-width: 905px) {
+    .user__info {
+        gap: 10px 50px;
+    }
+}

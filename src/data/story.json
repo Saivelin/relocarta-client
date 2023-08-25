@@ -1,0 +1,38 @@
+[
+  {
+    "story_id": 1,
+    "name": "Маршрут на Домбай. Два дня, чтобы увидеть максимум",
+    "distance": 345,
+    "distance_unit": "км",
+    "duration": 9,
+    "duration_unit": "ч",
+    "photo_link": ["/img_album/story/0001.jpg"]
+  },
+  {
+    "story_id": 2,
+    "name": "Москва-Архыз-Москва. Вдвоём на авто",
+    "distance": 1800,
+    "distance_unit": "км",
+    "duration": 36,
+    "duration_unit": "ч",
+    "photo_link": ["/img_album/story/0002.jpg"]
+  },
+  {
+    "story_id": 3,
+    "name": "Аул-призрак Гамсутль, или прогулка по дагестанскому мачу-пикчу",
+    "distance": 320,
+    "distance_unit": "км",
+    "duration": 17,
+    "duration_unit": "ч",
+    "photo_link": ["/img_album/story/0003.jpg"]
+  },
+  {
+    "story_id": 4,
+    "name": "Кусочек Франции в Краснодарском крае",
+    "distance": 70,
+    "distance_unit": "км",
+    "duration": 3,
+    "duration_unit": "ч",
+    "photo_link": ["/img_album/story/0004.jpg"]
+  }
+]

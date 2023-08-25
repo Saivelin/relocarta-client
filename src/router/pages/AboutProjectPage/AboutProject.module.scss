@@ -1,0 +1,349 @@
+.aboutproject {
+    background-color: #fff;
+}
+.header {
+    background-repeat: no-repeat;
+    background-position: 60% 0;
+    background-size: cover;
+    background-image: url("https://novitravel.ru/img/int/own/abt/01/header.jpg");
+}
+.header__text {
+    font-family: Montserrat Alternates; 
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 39px;
+    color: #112129;
+    max-width: 700px;
+    margin-left: auto;
+    padding: 56px 70px 180px 10px;
+    text-align: end;
+    white-space: pre-wrap;
+}
+.subheader {
+    background-color: #F1F7F9;
+    padding: 45px 0;
+}
+.container {
+    max-width: 1063px;
+    margin: 0 auto;
+    padding: 0 15px 0;
+    overflow: hidden;
+}
+.subheader__top {
+    font-family: Montserrat;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 39px;
+    color: #565656;
+    margin: 0 0 30px;
+}
+.subheader__bottom {
+    font-family: Montserrat;
+    font-size: 20px;
+    line-height: 32px;
+    color: #565656;
+}
+.advantages {
+
+}
+.advantages__items {
+   padding: 50px 0;
+
+   & > *:not(:last-child) {
+        margin: 0 0 75px 0;
+   }
+}
+.advantages__item {
+    display: flex;
+    gap: 40px;
+}
+.advantages__image {
+    flex: 0 0 400px;
+    border-radius: 20px;
+    overflow: hidden;
+    height: 235px;
+    & img {
+    width: 100%;
+    height: 100%;
+    -o-object-fit: cover;
+    object-fit: cover;
+}
+}
+.advantages__content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.advantages__title {
+    font-family: Montserrat;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 33px;
+    color: #002033;
+    margin: 0 0 50px;
+}
+.advantages__text {
+    font-family: Montserrat;
+    font-size: 20px;
+    line-height: 24px;
+    color: rgba(0, 32, 51, 0.6);
+}
+.touristlove {
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    background-size: cover;
+    min-height: 332px;
+    background-image: url("/images/img_album/company/0006.png");
+    padding: 60px 0 60px;
+}
+.touristlove__title {
+    font-family: Montserrat;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 39px;
+    color: #fff;
+    text-align: center;
+    margin: 0 0 25px 0;
+}
+.touristlove__text {
+    font-family: Montserrat;
+    font-size: 24px;
+    line-height: 37px;
+    color: #fff;
+    text-align: center;
+    margin: 0 0 45px 0;
+}
+.touristlove__cards {
+    display: flex;
+    gap: 50px;
+    height: 100%;
+}
+.touristlove__card {
+    background-color: rgba(255, 255, 255, 0.35);
+    border-radius: 10px;
+    flex: 1 1 calc(33.333% - 50px);
+    padding: 20px 70px;
+    min-height: 165px;
+}
+.card__value {
+    font-family: Montserrat;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 59px;
+    color: #fff;
+    text-align: center;
+    margin: 0 0 18px;
+}
+.card__text {
+    font-family: Montserrat;
+    font-size: 24px;
+    line-height: 29px;
+    color: rgba(255, 255, 255, 0.75);
+    text-align: center;
+}
+.questions {
+    padding: 45px 0 65px;
+}
+.question__label {
+    max-width: 51px;
+    margin: 0 auto;
+    margin-top: -25px;
+    position: relative;
+    z-index: 1;
+    background-color: #fff;
+    border-radius: 50%;
+}
+.label {
+    width: 51px;
+    height: 51px;
+}
+.questions__title {
+    font-family: Montserrat;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 39px;
+    color: #283847;
+    text-align: center;
+    margin: 0 0 45px 0;
+}
+.questions__wrapper {
+    margin: 0 0 55px;
+    & >*:not(:last-child) {
+        border-bottom: 1px solid #CFCFCF;
+    }
+}
+.questions__item {
+    padding: 20px 0;
+}
+.question {
+    font-family: Montserrat;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    color: #565656;
+    margin: 0 0 25px 0;
+}
+.answer {
+    font-family: Montserrat;
+    font-size: 18px;
+    line-height: 30px;
+    color: #565656;
+    white-space: pre-wrap;
+}
+.contacts {
+    max-width: 600px;
+    margin: 0 auto;
+    font-family: Montserrat;
+    font-size: 18px;
+    line-height: 30px;
+    color: #000;
+    text-align: center;
+}
+
+@media (max-width: 1024px) {
+    .touristlove__cards {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .touristlove__card {
+        flex: 0 1 calc(50% - 50px);
+        padding: 20px 70px;
+        min-height: 165px;
+    }
+
+    .advantages__item {
+        display: block;
+    }
+    .advantages__title {
+        font-family: Montserrat;
+        font-weight: 500;
+        font-size: 30px;
+        line-height: 33px;
+        color: #000;
+        margin: 0 0 15px;
+    }
+    .advantages__image {
+        margin: 0 0 10px;
+        & img {
+        display: block;
+        width: 100%;
+        height: 100%;
+        -o-object-fit: cover;
+        object-fit: cover;
+    }
+    }
+}
+
+@media (max-width: 768px ) {
+    .touristlove__cards {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .touristlove__card {
+        flex: 0 1 100%;
+        padding: 20px 70px;
+        min-height: 165px;
+        max-width: 314px;
+    }
+}
+
+@media (max-width: 480px ) {
+    .subheader {
+        padding: 25px 0 20px;
+    }
+    .header__text {
+        font-family: Montserrat;
+        font-weight: 700;
+        font-size: 14px;
+        line-height: 17px;
+        padding: 48px 30px 48px 10px;
+    }
+    .subheader__top {
+        font-size: 14px;
+        line-height: 21px;
+        margin: 0 0 12px;
+    }
+    .subheader__bottom {
+        font-size: 14px;
+        line-height: 21px;
+    }
+    .advantages__items {
+        padding: 30px 0;
+        & > *:not(:last-child) {
+             margin: 0 0 25px 0;
+        }
+     }
+     .advantages__image {
+        height: 183px;
+    }
+     .advantages__title {
+        font-weight: 600;
+        font-size: 14px;
+        line-height: 21px;
+        color: #565656;
+        margin: 0 0 5px;
+    }
+    .advantages__text {
+        font-size: 12px;
+        line-height: 17px;
+    }
+    .touristlove__title {
+        font-size: 24px;
+        line-height: 29px;
+        margin: 0 0 19px 0;
+    }
+    .touristlove__text {
+        font-size: 14px;
+        line-height: 21px;
+        margin: 0 0 19px 0;
+    }
+    .touristlove__cards {
+        display: flex;
+        gap: 25px;
+        height: 100%;
+    }
+    .touristlove__card {
+        flex: 0 1 100%;
+        padding: 18px 13px;
+        min-height: 100px;
+        max-width: 240px;
+    }
+    .card__value {
+        font-size: 36px;
+        line-height: 44px;
+        margin: 0;
+    }
+    .card__text {
+        font-size: 14px;
+        line-height: 21px;
+        color: fff;
+        text-align: center;
+    }
+    .questions {
+        padding: 25px 0 65px;
+    }
+    .questions__title {
+        font-size: 24px;
+        line-height: 29px;
+        text-align: start;
+        margin: 0 0 25px 0;
+    }
+    .questions__wrapper {
+        margin: 0 0 25px;
+    }
+    .questions__item {
+        padding: 0;
+    }
+    .question__item_desktop {
+        display: none;
+    }
+    .contacts {
+        margin: 0;
+        font-size: 14px;
+        line-height: 25px;
+        text-align: start;
+    }
+}
+
+
+

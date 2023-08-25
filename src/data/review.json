@@ -1,0 +1,38 @@
+[
+  {
+    "review_id": 1,
+    "author": "slava_cosmos",
+    "user_avatar": null,
+    "user_rating": 5,
+    "user_rating_count": 1025,
+    "review_text": "Отличное место для отдыха с семьёй. Посетили с детьми вольеры, визит-центр и музей. Животные всё чистенькие и ухоженные. В визит-центре отличный макет заповедника, экспозиция минералов и ископаемых, приветливый персонал. Музей небольшой, но тоже есть на что посмотреть. На территории есть места для отдыха, детская площадка",
+    "review_date": 1666396800000,
+    "review_status": "published",
+    "review_rating": 3,
+    "attraction_id": 15
+  },
+  {
+    "review_id": 2,
+    "author": "slava_cosmos",
+    "user_avatar": null,
+    "user_rating": 5,
+    "user_rating_count": 1025,
+    "review_text": "Место замечательное",
+    "review_date": 1669075200000,
+    "review_status": "published",
+    "review_rating": 4,
+    "attraction_id": 1
+  },
+  {
+    "review_id": 3,
+    "author": "vasya_cosmonavt",
+    "user_avatar": null,
+    "user_rating": 5,
+    "user_rating_count": 1025,
+    "review_text": "Место замечательное",
+    "review_date": 1671667200000,
+    "review_status": "published",
+    "review_rating": 2,
+    "attraction_id": 100
+  }
+]

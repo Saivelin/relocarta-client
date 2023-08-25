@@ -1,0 +1,106 @@
+.card {
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 4px;
+  display: flex;
+  padding: 24px;
+  gap: 20px;
+  position: relative;
+  flex-direction: column;
+  background: #fff;
+}
+
+.card {
+  transition: all 0.2s ease-in-out;
+}
+.card:hover {
+  transform: scale(1.07);
+  z-index: 1;
+}
+
+@media (max-width: 768px) {
+  .card:hover {
+    transform: initial;
+    z-index: 1;
+  }
+}
+
+.imageWrap {
+  position: relative;
+}
+.image {
+  border-radius: 4px;
+  width: 100%;
+  height: 251px;
+}
+
+.title {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+
+  margin-bottom: 12px;
+
+  display: -webkit-box;
+  -webkit-line-clamp: 1;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+
+  cursor: pointer;
+}
+
+.text {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  display: -webkit-box;
+  -webkit-line-clamp: 5;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+}
+
+.button {
+  bottom: 12px;
+  right: 12px;
+  position: absolute;
+  z-index: 1;
+}
+
+.card:hover {
+}
+
+.row {
+  display: flex;
+  justify-content: space-between;
+}
+
+.tags {
+  display: flex;
+  gap: 4px;
+  flex-wrap: wrap;
+}
+.rating {
+  font-family: Montserrat;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  color: #248742;
+  font-weight: 700;
+  font-size: 12px;
+}
+
+.comments {
+  color: rgba(0, 32, 51, 0.6);
+}
+
+@media (max-width: 666px) {
+  .title {
+    -webkit-line-clamp: 3;
+  }
+}

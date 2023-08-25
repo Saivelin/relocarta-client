@@ -1,0 +1,98 @@
+.card {
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 4px;
+  display: flex;
+  padding: 24px;
+  gap: 20px;
+  position: relative;
+
+  flex-direction: column;
+
+  align-items: stretch;
+}
+
+.bottom {
+  display: flex;
+  justify-content: center;
+}
+
+.title {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+
+  margin-bottom: 12px;
+
+  display: -webkit-box;
+  -webkit-line-clamp: 1;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+
+  cursor: pointer;
+}
+
+.text {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  display: -webkit-box;
+  -webkit-line-clamp: 5;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+}
+
+.button {
+  display: none;
+  position: relative;
+  z-index: 1;
+  margin-right: auto;
+  margin-top: auto;
+}
+
+.card:hover {
+  .button,
+  .overlay {
+    display: block;
+  }
+}
+
+@media (max-width: 480px) {
+  .button {
+    display: block !important;
+    margin-top: 12px;
+  }
+
+  .card {
+    flex-direction: column !important;
+  }
+}
+
+.title,
+.text {
+  text-align: center;
+}
+
+.image {
+  height: 200px;
+}
+
+.title {
+  margin-bottom: 8px;
+  -webkit-line-clamp: 3;
+}
+
+.button {
+  text-align: center;
+  margin: auto auto 0;
+}
+
+.content {
+  flex: 1;
+}

@@ -1,0 +1,51 @@
+.item {
+  display: flex;
+  gap: 12px;
+  margin-bottom: 12px;
+}
+
+.text {
+  display: flex;
+}
+
+.img {
+  width: 28px;
+  height: 27px;
+
+  background: url(/images/FrameStories.svg);
+  border-radius: 47px;
+}
+
+.name {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 13px;
+  line-height: 16px;
+
+  font-variant: small-caps;
+  color: #565656;
+}
+
+.description {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 9px;
+  line-height: 11px;
+  font-variant: small-caps;
+
+  color: #565656;
+}
+
+.title {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 17px;
+
+  color: #979899;
+
+  margin-bottom: 12px;
+}

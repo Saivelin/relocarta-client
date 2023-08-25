@@ -1,0 +1,104 @@
+.form {
+  :global {
+    .ant-modal-content {
+      padding: 48px;
+    }
+  }
+}
+
+.title {
+  margin-bottom: 24px;
+  color: #248742;
+  font-size: 32px;
+  font-family: Montserrat;
+  font-weight: 700;
+}
+
+
+
+.label {
+  margin-bottom: 4px;
+  color: #000;
+  font-size: 16px;
+  font-family: Montserrat;
+}
+
+.inputWrap {
+  margin-bottom: 24px;
+}
+
+.input {
+  //padding: 18px 20px;
+  padding: 0 14px;
+  height: 56px;
+  border-radius: 4px;
+  border: 2px solid rgba(0, 65, 102, 0.2);
+}
+
+.button {
+  width: 100%;
+  margin-bottom: 36px;
+}
+
+.text {
+  text-align: center;
+  color: #000;
+  font-size: 16px;
+  font-family: Montserrat;
+  margin-bottom: 20px;
+
+  span {
+    font-weight: 700;
+    color: var(--typo-brand, #248742);
+    text-decoration: underline;
+  }
+}
+
+.policy {
+  text-align: center;
+  color: #000;
+  font-size: 14px;
+  font-family: Montserrat;
+
+  span {
+    color: var(--typo-brand, #248742);
+    text-decoration: underline;
+  }
+}
+
+.email {
+  font-weight: 600;
+  size: 20px;
+}
+
+.error {
+  color: red;
+}
+
+.a {
+  text-decoration: underline;
+
+  &:hover {
+    color: var(--accent-light)
+  }
+}
+
+@media (max-width: 480px) {
+  .form {
+    :global {
+      .ant-modal-content {
+        padding: 24px;
+      }
+    }
+  }
+
+  .title {
+    margin-bottom: 12px;
+  }
+
+  .input {
+    padding: 8px 10px;
+    border-radius: 4px;
+    border: 1.5px solid rgba(0, 65, 102, 0.2);
+  }
+}

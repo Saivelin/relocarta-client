@@ -1,0 +1,15 @@
+.list {
+  overflow: auto;
+  margin: 0 -12px;
+  flex: 1;
+}
+
+/* Скрываем scrollbar*/
+.list::-webkit-scrollbar {
+  display: none;
+}
+
+.list {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
